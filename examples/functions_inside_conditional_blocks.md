@@ -42,7 +42,7 @@
 	innerFuncExpr: Inside if
 
 ```
-
+## both will printed inside the true block (inside If) 
 ###### Explanation
 
 1. There are two types of functions inside the `if else` blocks. The `innerFunc` is the commonly known function declaration and `innerFuncExpr` is the function expression. At any point of time, only one of the `if` or `else` block should get executed, in this case the `if` block at #`1`. 
